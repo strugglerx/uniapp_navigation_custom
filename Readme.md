@@ -58,10 +58,10 @@ github仓库: [https://github.com/strugglerx/uniapp_navigation_custom](https://g
   
 ## 实际效果
 
-![android](./11559401153_.pic_hd.jpg)
-![ios](./21559401194_.pic_hd.jpg)
-![type=3](./31559402181_.pic_hd.jpg)
-![](./41559402198_.pic_hd.jpg)
+![android](https://github.com/strugglerx/uniapp_navigation_custom/blob/master/11559401153_.pic_hd.jpg)
+![ios](https://github.com/strugglerx/uniapp_navigation_custom/blob/master/21559401194_.pic_hd.jpg)
+![type=3](https://github.com/strugglerx/uniapp_navigation_custom/blob/master/31559402181_.pic_hd.jpg)
+![](https://github.com/strugglerx/uniapp_navigation_custom/blob/master/41559402198_.pic_hd.jpg)
 
 
 

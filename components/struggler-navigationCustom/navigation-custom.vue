@@ -4,15 +4,15 @@
 			<!-- capsule or normal -->
 			<view v-if="[1,2].indexOf(config.type)!= -1" :class="config.type==1?'navigation-bar-capsule':'navigation-bar-textbox'" :style="{top:marginTop}">
 				<view class="button-action" hover-class="button-action-active" @click="back_">
-					<image src="../static/icon/back_.png" mode=""></image>
+					<image src="../../static/icon/back_.png" mode=""></image>
 				</view>
 				<view class="button-v-line"></view>
 				<view v-if="!config.share" class="button-action" hover-class="button-action-active" @click="home_">
-					<image src="../static/icon/home_.png" mode=""></image>
+					<image src="../../static/icon/home_.png" mode=""></image>
 				</view>
 				<view v-if="config.share" class="button-action" hover-class="button-action-active">
 					<button class="button_clear" open-type="share" hover-class="none">
-						<image src="../static/icon/share_.png" mode=""></image>
+						<image src="../../static/icon/share_.png" mode=""></image>
 					</button>
 				</view>
 			</view>

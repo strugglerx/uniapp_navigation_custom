@@ -6,7 +6,7 @@
 </template>
 
 <script>
-	import navigationCustom from "../../components/navigation-custom"
+	import navigationCustom from "../../components/struggler-navigationCustom/navigation-custom"
 	export default {
 		data() {
 			return {
@@ -18,7 +18,7 @@
 					transparent:true, //是否背景透明 默认白色
 					linear:true, //是为开启下滑渐变
 					share:true, //是否将主页按钮显示为分享按钮
-					menuIcon:"../static/icon/back_.png", //当type为3或者4的时候左边的icon文件位置，注意位置与当前页面不一样
+					menuIcon:"../../static/icon/back_.png", //当type为3或者4的时候左边的icon文件位置，注意位置与当前页面不一样
 					//menuText:"返回", //当type为3或4的时候icon右边的文字
 				},
 				scrollTop:0 ,// 当linear为true的时候需要通过onpagescroll传递参数
