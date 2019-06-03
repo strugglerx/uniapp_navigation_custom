@@ -94,7 +94,7 @@
 				});
 			},
 			home_(){
-				uni.navigateTo({
+				uni.switchTab({
 					url:"/pages/index/index"
 				})
 			},

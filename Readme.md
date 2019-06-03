@@ -58,10 +58,10 @@ github仓库: [https://github.com/strugglerx/uniapp_navigation_custom](https://g
   
 ## 实际效果
 
-![android](https://github.com/strugglerx/uniapp_navigation_custom/blob/master/11559401153_.pic_hd.jpg)
-![ios](https://github.com/strugglerx/uniapp_navigation_custom/blob/master/21559401194_.pic_hd.jpg)
-![type=3](https://github.com/strugglerx/uniapp_navigation_custom/blob/master/31559402181_.pic_hd.jpg)
-![](https://github.com/strugglerx/uniapp_navigation_custom/blob/master/41559402198_.pic_hd.jpg)
+![android](https://github.com/strugglerx/uniapp_navigation_custom/blob/master/11559401153_.pic_hd.jpg?raw=true)
+![ios](https://github.com/strugglerx/uniapp_navigation_custom/blob/master/21559401194_.pic_hd.jpg?raw=true)
+![type=3](https://github.com/strugglerx/uniapp_navigation_custom/blob/master/31559402181_.pic_hd.jpg?raw=true)
+![](https://github.com/strugglerx/uniapp_navigation_custom/blob/master/41559402198_.pic_hd.jpg?raw=true)
 
 
 
@@ -69,6 +69,8 @@ github仓库: [https://github.com/strugglerx/uniapp_navigation_custom](https://g
 如在使用中发现bug或有优化的建议和意见，请发邮件 <str@li.cm> 或在 [gitHub](https://github.com/strugglerx/uniapp_navigation_custom) 上反馈。
   
 ## 更新日志
-     
+
+2019.6.3 *v0.0.2*  返回主页修改为switchTab 
+
 2019.6.1 *v0.0.1*  创建本插件  
   
